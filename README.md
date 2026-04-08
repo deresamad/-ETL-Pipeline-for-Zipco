@@ -110,7 +110,7 @@ This project provides a scalable and automated solution for managing real estate
 
 ---
 
-## 📝 Note
+## 
 This project demonstrates my skills in:
 - Data engineering fundamentals  
 - ETL pipeline development  
