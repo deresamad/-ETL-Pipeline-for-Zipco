@@ -43,6 +43,7 @@ The main objectives of this project are:
 ---
 
 ## 🔄 ETL Pipeline Process
+![Data Architecture](data_architecture.drawio.png)
 
 ### 1. Data Extraction
 - Fetch property records from a Real Estate API  
